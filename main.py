@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
-BOT_TOKEN = "YOUR_TOKEN_HERE"
+BOT_TOKEN = "8863632257:AAHADgVhQYRVCRnW76nB7AE5qF1FHbL3rkg"
 ADMIN_ID = 8224640630
 DATA_FILE = "users.json"
 
